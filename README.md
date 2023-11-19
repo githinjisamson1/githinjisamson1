@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samson Githinji
 =======================================================================================================================================
 
-Software Developer
-------------------
+Aspiring Full Stack Software Engineer
+-------------------------------------
 
 I have been actively coding for five months. I began my journey with HTML, CSS, and JavaScript. I have also gained familiarity with React, Node, Express, MySQL, and MongoDB at a beginner level. Additionally, I use Git to manage code changes and collaborate with others. Currently, I am enrolled in a six-month Software Engineering Course at Moringa School, with a strong aspiration to specialize in the MERN stack. I am also excited about delving into Python <3 :).
 
@@ -11,7 +11,7 @@ I have been actively coding for five months. I began my journey with HTML, CSS, 
 * ✉️  You can contact me at [githinjisamson148@gmail.com](mailto:githinjisamson148@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on MERN projects
-* ⚡  Just Sam
+* ⚡  Just Sam :)
 
 ### Skills
 
