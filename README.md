@@ -9,7 +9,7 @@ I have been actively coding for five months. I began my journey with HTML, CSS, 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [Samson Githinji](http://samson-githinji.netlify.app)
 * ✉️  You can contact me at [githinjisamson148@gmail.com](mailto:githinjisamson148@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm currently learning Flask
 * 🤝  I'm open to collaborating on MERN projects
 * ⚡  Just Sam :)
 
