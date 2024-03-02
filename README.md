@@ -12,13 +12,10 @@
 - 👨‍💻 All of my projects are available at **https://samson-githinji.netlify.app/**
 - ⚡ Fun fact **Debugging is a lot like being the detective in a crime novel :)**
 
-<div> <a href="https://twitter.com/githinjisamson1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samsongithinji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/githinjisamson1" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:githinjisamson148@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/githinjisamson1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="githinjisamson1" height="30" width="40" /></a><a href="https://linkedin.com/in/samsongithinji" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="samsongithinji" height="30" width="40" /></a><a href="https://stackoverflow.com/users/17143912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="17143912" height="30" width="40" /></a></p>
+<a href="https://twitter.com/githinjisamson1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="githinjisamson1" height="30" width="40" /></a><a href="https://linkedin.com/in/samsongithinji" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="samsongithinji" height="30" width="40" /></a><a href="https://stackoverflow.com/users/17143912" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="17143912" height="30" width="40" /></a><a href = "mailto:githinjisamson148@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,6 +60,8 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=githinjisamson1&theme=github" height="180em" />
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githinjisamson1&theme=default" alt="githinjisamson1" /></a> </p>
+<div>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githinjisamson1&theme=default" alt="githinjisamson1" /></a> </p><div/>
+
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
