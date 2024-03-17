@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Samson Githinji</h1>
-<p>
-Skilled full-stack web developer proficient in core technologies like HTML, CSS, JavaScript, and Python. Well-versed in modern frameworks such as React, Flask, and Node.js, with a focus on secure and efficient database architectures using MySQL, MongoDB, and Postgres. Experienced in deploying and maintaining applications on platforms like Vercel and Render. Strong problem-solving abilities and a commitment to delivering high-quality software solutions. Effective communicator and collaborator with a passion for continuous learning and contributing to cutting-edge projects in a dynamic team environment.</p>
 <h3 align="center">Software Developer</h3>
+<p>
+Skilled full-stack software developer proficient in core technologies like HTML, CSS, JavaScript, and Python. Well-versed in modern frameworks such as React, Flask, and Node.js, with a focus on secure and efficient database architectures using MySQL, MongoDB, and Postgres. Experienced in deploying and maintaining applications on platforms like Vercel and Render. Strong problem-solving abilities and a commitment to delivering high-quality software solutions. Effective communicator and collaborator with a passion for continuous learning and contributing to cutting-edge projects in a dynamic team environment.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githinjisamson1&label=Profile%20views&color=0e75b6&style=flat" alt="githinjisamson1" /> </p>
 
 
